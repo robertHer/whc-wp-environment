@@ -45,7 +45,7 @@
 		</div><!-- .site-branding -->
 
 		<nav id="site-navigation" class="main-navigation  navbar navbar-expand-lg navbar-light bg-light text-center p-3">
-		<div class="container">
+		<div class="nav justify-content-center">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
 			<?php esc_html_e( 'Primary Menu', 'whc' ); ?>
 			</button>
@@ -53,7 +53,7 @@
 			wp_nav_menu( array(
 				'theme_location' => 'menu-1',
 				'menu_id'        => 'primary-menu',
-				'menu_class'     => 'nav mx-auto text-center ',
+				'menu_class'     => 'nav-item  ',
 				
 				
 			) );

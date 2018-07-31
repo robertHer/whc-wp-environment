@@ -13,8 +13,10 @@ get_header();
 ?>
 	<div class="container-fluid">
 	<div class="row">
-	 <div class="col-md-8 bg-info text-white">
+	 <div class="col-md-8 bg-info text-white border-right border-dark">
 	 <h1>This is the about Page </h1>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quod voluptate animi, asperiores et esse quam provident molestias sed, iure, itaque accusantium dignissimos hic sint saepe ipsam? Optio, aperiam nulla officiis autem saepe consequuntur voluptatum veniam eos ullam dolorem magnam sit aut. Ab consequatur accusantium voluptatibus, a velit sit est molestiae culpa praesentium ipsam ea atque eos. Cupiditate molestias quisquam ab rem alias error fugit dolore, molestiae, impedit quasi voluptatem.</p>
+
 	 </div>
 
 
